@@ -44,9 +44,9 @@ Repeat the process for several epochs and visualize the denoised output images a
 
 ## PROGRAM
 
-### Name:THIRUMURUGAN R
+### Name: D KARTHIKEYAN
 
-### Register Number:212223220118
+### Register Number:212224230115
 
 ```python
 # Autoencoder Definition
@@ -81,8 +81,8 @@ optimizer = optim.Adam(model.parameters(), lr=1e-3)
 # Training function
 def train(model, loader, criterion, optimizer, epochs=5):
     model.train()
-    print("Name:franklin raj g                   ")
-    print("Register Number:   212223230058               ")
+    print("Name: D KARTHIKEYAN ")
+    print("Register Number:   212224230115   ")
 
     for epoch in range(epochs):
         running_loss = 0.0
